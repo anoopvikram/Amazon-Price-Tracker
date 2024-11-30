@@ -1,0 +1,6 @@
+# Ignore .env files to protect sensitive credentials
+.env
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
